@@ -1,1 +1,1 @@
-command test file update2
+command test file update
