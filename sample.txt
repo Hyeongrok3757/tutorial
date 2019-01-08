@@ -1,1 +1,2 @@
-command test file update2
+command test file
+tutorial2
